@@ -1,0 +1,20 @@
+Beni Uyandır uygulaması, konumunuzu yalnızca alarm çalması için kullanır.
+
+**Toplanan Veriler:**
+- Konum bilgisi (sadece cihazda saklanır)
+- Kaydedilen alarm konumları
+
+**Veri Paylaşımı:**
+Hiçbir veriniz 3. taraflarla paylaşılmaz veya sunucularımıza gönderilmez.
+
+**Veri Saklama:**
+Tüm veriler yalnızca cihazınızda saklanır ve uygulamayı sildiğinizde tamamen silinir.
+
+**Konum Kullanımı:**
+Konum izni yalnızca alarm başlattığınızda aktif olur ve hedefinize ulaştığınızda otomatik olarak durdurulur. Alarm aktif değilken konum takibi yapılmaz.
+
+**Arka Plan Kullanımı:**
+Alarm aktifken arka planda konumunuzu takip ederiz, böylece uyurken bile sizi uyandırabiliriz. Alarm durdurulduğunda arka plan takibi de durur.
+
+**İletişim:**
+Gizlilik politikası ile ilgili sorularınız için: hello.wakemeupapp@gmail.com
